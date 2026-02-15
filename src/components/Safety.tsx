@@ -1,5 +1,5 @@
 
-import { Ban, Camera, CircleAlert, Heart, Shield, Star } from 'lucide-react';
+import { Ban, Camera, CircleAlert, Hand, Heart, Shield, Star } from 'lucide-react';
 
 const rules = [
   {
@@ -28,7 +28,7 @@ const rules = [
     text: "Take as many photos as you like! Just please turn off your flash to protect their sensitive eyes."
   },
   {
-    icon: AlertCircle,
+    icon: CircleAlert,
     title: "Stay on Paths",
     text: "For your safety and theirs, please stay on the marked visitor paths and designated areas."
   }
